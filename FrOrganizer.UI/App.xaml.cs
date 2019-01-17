@@ -13,5 +13,9 @@ namespace FrOrganizer.UI
     /// </summary>
     public partial class App : Application
     {
+        class MyClass
+        {
+
+        }
     }
 }
